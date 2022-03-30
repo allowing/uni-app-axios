@@ -1,0 +1,24 @@
+{
+  "name": "ljjgit-uniapp-axios",
+  "version": "1.0.0",
+  "description": "可用于uniapp的axios库",
+  "main": "axios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allowing/uni-app-axios.git"
+  },
+  "keywords": [
+    "uniapp",
+    "axios",
+    "uniapp-axios"
+  ],
+  "author": "ljjgit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allowing/uni-app-axios/issues"
+  },
+  "homepage": "https://github.com/allowing/uni-app-axios#readme"
+}
