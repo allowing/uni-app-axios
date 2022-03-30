@@ -2,6 +2,10 @@
 
 可用于 uni-app 的 axios 库
 
+## axios 版本
+
+`v0.26.1`
+
 ## 安装
 
 `npm i ljjgit-uniapp-axios`
