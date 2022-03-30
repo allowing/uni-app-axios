@@ -1,6 +1,6 @@
 {
   "name": "ljjgit-uniapp-axios",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "可用于uniapp的axios库",
   "main": "axios.js",
   "scripts": {
