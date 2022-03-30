@@ -1,5 +1,19 @@
-# uni-app-axios
+# ljjgit-uniapp-axios
+
 可用于 uni-app 的 axios 库
+
+## 安装
+
+`npm i ljjgit-uniapp-axios`
+
+## 使用
+
+```js
+// import 的名字可以自己起
+import uniAxios from 'ljjgit-uniapp-axios';
+
+// 其他 api 用法和官方的 axios 一样，一点都没改变官方代码
+```
 
 ## 作者的话
 
