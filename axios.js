@@ -1,7 +1,6 @@
 import XMLHttpRequest from './XMLHttpRequestUniApp.js';
 
-export default (function() {
-return /******/ (function(modules) { // webpackBootstrap
+export default /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -2266,4 +2265,3 @@ module.exports = {
 /***/ })
 
 /******/ });
-})();
